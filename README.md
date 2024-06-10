@@ -9,7 +9,7 @@ Desarrollador Web Fullstack
 He estado aprendiendo distintos lenguajes durante mucho tiempo.
 
 *   🌍  I'm based in Pola de Laviana, Asturias, España
-*   ✉️  You can contact me at [jonathanbc2012@gmail.com](mailto:jonathanbc2012@gmail.com)
+*  
 *   <a href="https://www.github.com/JohnnyBC2022" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/JohnnyBC2022?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
 
