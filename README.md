@@ -4,16 +4,12 @@
  
 # 💫 About Me:
 
-<div>
-
-    <div align="left">
-    ¡Hola, soy Jonathan! 👋<br><br>👨‍💻 Soy un apasionado de la programación que acaba de salir de un bootcamp donde aprendí a domar React y Java con Springboot.<br><br>🛠 Proyectos Chulos: Mi orgullo y alegría es un proyecto de escape room que he creado, ¡una aventura llena de acertijos y diversión!<br><br>🤝 Team Player: Me encanta trabajar en equipo y siempre estoy dispuesto a echar una mano. ¡Nada me gusta más que aprender cosas nuevas y compartir conocimientos!<br><br>🚀 Busco Oportunidades: Estoy en la búsqueda de mi primera aventura laboral en el mundo tech.<br><br>¡Echa un vistazo a mis repos y si te apetece colaborar o tienes una oportunidad, no dudes en contactar conmigo!
-    </div> 
-
-    <img align="right" alt="Mario GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+¡Hola, soy Jonathan! 👋<br><br>👨‍💻 Soy un apasionado de la programación que acaba de salir de un bootcamp donde aprendí a domar React y Java con Springboot.<br><br>🛠 Proyectos Chulos: Mi orgullo y alegría es un proyecto de escape room que he creado, ¡una aventura llena de acertijos y diversión!<br><br>🤝 Team Player: Me encanta trabajar en equipo y siempre estoy dispuesto a echar una mano. ¡Nada me gusta más que aprender cosas nuevas y compartir conocimientos!<br><br>🚀 Busco Oportunidades: Estoy en la búsqueda de mi primera aventura laboral en el mundo tech.<br><br>¡Echa un vistazo a mis repos y si te apetece colaborar o tienes una oportunidad, no dudes en contactar conmigo!
 
 
-</div>
+<img align="right" alt="Mario GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonathan-barcar/)
 
